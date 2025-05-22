@@ -1,4 +1,4 @@
-# Project Name
+# freaAI
 
 ## Structure of the Repository
 
